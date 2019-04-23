@@ -4,11 +4,11 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
+      "name": "Braulio",
+      "publisher": "Ana Olivero",
       "tray_image_file": "tray_Cuppy.png",
-      "publisher_email":"",
-      "publisher_website": "",
+      "publisher_email":"fracasitos@gmail.com",
+      "publisher_website": "https://www.fracasitos.com.ar",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
